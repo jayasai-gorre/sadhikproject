@@ -18,7 +18,7 @@ import java.awt.event.ActionEvent;
 
 /**
  * 
- * @author Himanshu Maurya
+ * @author csm students
  *
  */
 public class MMMUT_QuizSystem {
